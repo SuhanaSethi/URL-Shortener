@@ -59,6 +59,8 @@ npm run dev
 Runs on:
 
 http://localhost:5173
+
+
 📌 Future Improvements
 
 Click analytics
